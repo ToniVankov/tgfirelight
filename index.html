@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Birchline Studio</title>
+<meta name="robots" content="noindex">
+<script>
+  var lang = (navigator.language || navigator.userLanguage || "en").toLowerCase();
+  var target = lang.indexOf("bg") === 0 ? "bg/index.html" : "en/index.html";
+  window.location.replace(target);
+</script>
+<style>
+  body{font-family:sans-serif;background:#F7F4EC;color:#211D19;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;text-align:center;}
+  a{color:#E2551F;}
+</style>
+</head>
+<body>
+  <noscript>
+    <p>Please choose a language / Моля, изберете език:</p>
+    <p><a href="en/index.html">English</a> &nbsp;|&nbsp; <a href="bg/index.html">Български</a></p>
+  </noscript>
+  <p style="display:none" id="fallback">
+    Redirecting… If nothing happens, choose: <a href="en/index.html">English</a> / <a href="bg/index.html">Български</a>
+  </p>
+</body>
+</html>
