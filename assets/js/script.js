@@ -27,7 +27,7 @@
     });
   }
 
-  const lang = document.documentElement.lang || 'en';
+  const lang = document.documentElement.lang === 'bg' ? 'bg' : 'en';
 
   fetch(`../assets/data/portfolio-${lang}.json`)
 	.then(r => r.json())
