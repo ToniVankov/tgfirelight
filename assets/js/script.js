@@ -29,7 +29,7 @@
 
   const lang = document.documentElement.lang || 'en';
 
-  fetch(`tgfirelight/assets/data/portfolio-${lang}.json`)
+  fetch(`../assets/data/portfolio-${lang}.json`)
 	.then(r => r.json())
 	.then(portfolioItems => {
 		renderPortfolio(portfolioItems);
