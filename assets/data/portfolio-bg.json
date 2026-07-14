@@ -1,0 +1,850 @@
+[
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Рамка за снимка",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/1.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Дървена кутия за съкровища",
+		"description": "",
+		"img": "../assets/img/2.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Робот - касичка",
+		"description": "",
+		"img": "../assets/img/3.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Дъска за рязане",
+		"description": "с пожелание и гравирано изображение.",
+		"img": "../assets/img/4.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Рамка за снимка",
+		"description": "с пожелание.",
+		"img": "../assets/img/5.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/6.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дърво от сърца",
+		"description": "с персонализирани текстове.",
+		"img": "../assets/img/7.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/8.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Дъска за рязане",
+		"description": "с пожелание и гравирано изображение.",
+		"img": "../assets/img/9.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Кутия за бутилка",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/10.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Фотоалбум",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/11.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Фотоалбум",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/12.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървен списък със задачи",
+		"description": "с персонализирани задачи.",
+		"img": "../assets/img/13.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Касичка със списък на суми",
+		"description": "с пожелание и персонализиран текст.",
+		"img": "../assets/img/14.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Дъска за рязане",
+		"description": "с пожелание и гравирано изображение.",
+		"img": "../assets/img/15.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Игра с монети",
+		"description": "- игра със зарове за малки и големи.",
+		"img": "../assets/img/16.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Нощна лампа",
+		"description": "с любим герой.",
+		"img": "../assets/img/17.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Закачалка за дрехи",
+		"description": "с любим герой.",
+		"img": "../assets/img/18.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/19.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/20.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/21.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/22.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/23.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/24.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/25.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/26.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/27.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/28.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/29.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/30.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Подложка за чаша",
+		"description": "",
+		"img": "../assets/img/31.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървено цвете",
+		"description": "с пожелание.",
+		"img": "../assets/img/32.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Гравюра върху платно",
+		"description": "",
+		"img": "../assets/img/33.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Гравюра върху платно",
+		"description": "",
+		"img": "../assets/img/34.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Гравюра върху платно",
+		"description": "",
+		"img": "../assets/img/35.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/36.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна елха",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/37.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Разделител за книга",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/38.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Разделител за книга",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/39.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Рамка за снимки",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/40.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Рамка за снимки",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/41.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Разделител за книга",
+		"description": "",
+		"img": "../assets/img/42.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- вълк.",
+		"img": "../assets/img/43.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Вечен календар",
+		"description": "- с отделения за моливи.",
+		"img": "../assets/img/44.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Фотоалбум",
+		"description": "за новородено.",
+		"img": "../assets/img/45.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Рамка за снимки",
+		"description": "",
+		"img": "../assets/img/46.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- буква.",
+		"img": "../assets/img/47.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- шапка.",
+		"img": "../assets/img/48.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- джудже.",
+		"img": "../assets/img/49.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Разделител за книга",
+		"description": "с гравирано изображение върху нея.",
+		"img": "../assets/img/50.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Разделител за книга",
+		"description": "с гравирано изображение върху нея.",
+		"img": "../assets/img/51.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за великденско яйце",
+		"description": "",
+		"img": "../assets/img/52.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Стойка за великденско яйце",
+		"description": "",
+		"img": "../assets/img/53.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Стойка за великденско яйце",
+		"description": "",
+		"img": "../assets/img/54.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Дървен плик",
+		"description": "за пари или картичка с пожелание.",
+		"img": "../assets/img/55.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- шапка.",
+		"img": "../assets/img/56.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- елха.",
+		"img": "../assets/img/57.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Пъзел с карта на държава",
+		"description": "",
+		"img": "../assets/img/58.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървен плик",
+		"description": "за пари или картичка с пожелание.",
+		"img": "../assets/img/59.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Дървено цвете",
+		"description": "",
+		"img": "../assets/img/60.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Кутия с коледна украса",
+		"description": "",
+		"img": "../assets/img/61.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- кучешка лапичка.",
+		"img": "../assets/img/62.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Разделител за книга",
+		"description": "с персонализиран инициал.",
+		"img": "../assets/img/63.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Разделител за книга",
+		"description": "с персонализиран инициал.",
+		"img": "../assets/img/64.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "3D принтиран настолен надпис",
+		"description": "",
+		"img": "../assets/img/65.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Ключодържател",
+		"description": "",
+		"img": "../assets/img/66.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Декорация за торта",
+		"description": "",
+		"img": "../assets/img/67.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна елха",
+		"description": "с персонализирана украса.",
+		"img": "../assets/img/68.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "3D принтиран настолен надпис",
+		"description": "с пожелание.",
+		"img": "../assets/img/69.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Разделител за книга",
+		"description": "",
+		"img": "../assets/img/70.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Разделител за книга",
+		"description": "",
+		"img": "../assets/img/71.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървен плик",
+		"description": "за пари или картичка с пожелание.",
+		"img": "../assets/img/72.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/73.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- еленче.",
+		"img": "../assets/img/74.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- джудже.",
+		"img": "../assets/img/75.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- шапка.",
+		"img": "../assets/img/76.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Кутия за великденско яйце",
+		"description": "",
+		"img": "../assets/img/77.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "- джудже.",
+		"img": "../assets/img/78.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървено цвете",
+		"description": "с пожелание.",
+		"img": "../assets/img/79.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървено цвете",
+		"description": "с пожелание.",
+		"img": "../assets/img/80.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Колекция коледни играчки",
+		"description": "- подарък за най-близките членове на семейството.",
+		"img": "../assets/img/81.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Дървено цвете",
+		"description": "с пожелание.",
+		"img": "../assets/img/82.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "laserengrave",
+		"catLabel": "Laser-engrave",
+		"title": "Дъска за рязане",
+		"description": "с гравирано изображение.",
+		"img": "../assets/img/83.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледна украса",
+		"description": "- семейство.",
+		"img": "../assets/img/84.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Коледна украса",
+		"description": "със снимка.",
+		"img": "../assets/img/85.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Кутия с коледна украса",
+		"description": "",
+		"img": "../assets/img/86.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Форма за бисквитки с печат",
+		"description": "- Джери.",
+		"img": "../assets/img/87.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Ключодържател",
+		"description": "",
+		"img": "../assets/img/88.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Форма за бисквитки с печат",
+		"description": "- Том.",
+		"img": "../assets/img/89.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Топер за торта",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/90.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Рамка за снимки",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/91.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut laserengrave",
+		"catLabel": "SVG | DXF | Laser-cut | Laser-engrave",
+		"title": "Коледен календар на Дядо Коледа",
+		"description": "- отброяване на дните до Коледа.",
+		"img": "../assets/img/92.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/93.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/94.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/95.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/96.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/97.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Стойка за медали",
+		"description": "с персонализиран текст.",
+		"img": "../assets/img/98.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "svg dxf lasercut",
+		"catLabel": "SVG | DXF | Laser-cut",
+		"title": "Колекция коледни играчки",
+		"description": "- букви.",
+		"img": "../assets/img/99.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Декорация за торта",
+		"description": "",
+		"img": "../assets/img/100.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Разделител за книга",
+		"description": "",
+		"img": "../assets/img/101.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "3dprint",
+		"catLabel": "3D Print",
+		"title": "Разделител за книга",
+		"description": "",
+		"img": "../assets/img/102.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "kidsbook",
+		"catLabel": "Kids book",
+		"title": "Жирафчето Тоби | Книга 1",
+		"description": "- запознайте се с жирафчето Тоби.",
+		"img": "../assets/img/103.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "kidsbook",
+		"catLabel": "Kids book",
+		"title": "Жирафчето Тоби | Книга 2",
+		"description": "- обичам бонбони, но съм твърде срамежлив да си взема.",
+		"img": "../assets/img/104.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "kidsbook",
+		"catLabel": "Kids book",
+		"title": "Жирафчето Тоби | Книга 3",
+		"description": "- Тоби и болната лапичка.",
+		"img": "../assets/img/105.jpg",
+		"alt": "Image loading  failed..."
+	},
+	{
+		"category": "kidsbook",
+		"catLabel": "Kids book",
+		"title": "Жирафчето Тоби | Книга 4",
+		"description": "- Тоби и изгубеният камък.",
+		"img": "../assets/img/106.jpg",
+		"alt": "Image loading  failed..."
+	}
+]
